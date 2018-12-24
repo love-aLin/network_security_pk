@@ -1,3 +1,5 @@
+## 界面
+![界面图片]（）
 ## 安装
 * `npm install` 或者 `cnpm install`
 
@@ -53,8 +55,6 @@ module.exports = {
 
 
 // 将应用更新到db上的操作流程
-前端访问网址：
-vis.pku.edu.cn/networkSecurity/index.html
 1. 更新后台服务
     将src文件更新到db network_security
     * 编译后端代码 `npm run serverPro`
