@@ -1,5 +1,3 @@
-## 界面
-![界面图片]（）
 ## 安装
 * `npm install` 或者 `cnpm install`
 
